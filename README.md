@@ -10,13 +10,13 @@ order.                  14           red                2
 range                   2            orange             3
 symmetry                15           yellow             4
 waveshape (lsb)         3            green              5
-220 Hz phi 2            16           blue           6, 6a
+220 Hz Φ 2              16           blue           6, 6a
 timbre mod.             4            violet             7
 440 Hz                  17           grey           8, 8a
 phase lock              5            white              9
 27.5 Hz                 18           black        10, 10a
 pitch mod.              6            brown             11
-220 Hz phi 1            19           red          12, 12a
+220 Hz Φ 1              19           red          12, 12a
 amp. mod.               7            orange            13
 clock (112.64 kHz)      20           yellow       14, 14a
 freq. offset            8            green             15
