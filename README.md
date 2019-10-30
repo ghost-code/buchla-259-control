@@ -20,9 +20,9 @@ pitch mod.              6            brown             11
 amp. mod.               7            orange            13
 clock (112.64 kHz)      20           yellow       14, 14a
 freq. offset            8            green             15
-TUNE                    21           blue              16
+tune                    21           blue              16
 pitch offset            9            violet            17
-Tune                    22           grey              18
+tune                    22           grey              18
 timbre c.v.             10           white             19
 ---                     23           black
 pitch c.v.              11           brown             21
