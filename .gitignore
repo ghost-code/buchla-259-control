@@ -26,6 +26,10 @@
 *.a
 *.lib
 
+# AVR Files
+*.elf
+*.hex
+
 # Executables
 *.exe
 *.out
