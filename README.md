@@ -1,7 +1,7 @@
 # buchla-259-control
 Computer Control for Buchla 259
 
-##Connections
+## Connections
 ```
 FUNCTION                PIN #      WIRE COLOR      HOLE #
 ---------------------------------------------------------
